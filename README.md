@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnokoheat&count_bg=%2379C83D&title_bg=%23555555&icon=skyliner.svg&icon_color=%23E7E7E7&title=Hi+there+%21&edge_flat=false)](https://github.com/gnokoheat)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnokoheat&count_bg=%2379C83D&title_bg=%23555555&icon=skyliner.svg&icon_color=%23E7E7E7&title=Hi+there+%21&edge_flat=false)](https://github.com/gnokoheat) -->
 [![Linkedin: gnokoheat](https://img.shields.io/badge/-Taeho%20Kong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taeho-kong/)](https://www.linkedin.com/in/taeho-kong/)
 [![GitHub gnokoheat](https://img.shields.io/github/followers/gnokoheat?label=follow&style=social)](https://github.com/gnokoheat)
 
