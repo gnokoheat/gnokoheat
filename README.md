@@ -2,10 +2,6 @@
 [![Linkedin: gnokoheat](https://img.shields.io/badge/-Taeho%20Kong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taeho-kong/)](https://www.linkedin.com/in/taeho-kong/)
 [![GitHub gnokoheat](https://img.shields.io/github/followers/gnokoheat?label=follow&style=social)](https://github.com/gnokoheat)
 
-![https://github.com/gnokoheat](https://github-readme-stats.vercel.app/api?username=gnokoheat&count_private=true&hide=contribs&theme=dark&show_icons=true&hide_border=true)
-
-![https://github.com/gnokoheat](https://github-readme-stats.vercel.app/api/top-langs/?username=gnokoheat&hide_border=true&layout=compact&theme=dark)
-
 <!--
 **gnokoheat/gnokoheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
